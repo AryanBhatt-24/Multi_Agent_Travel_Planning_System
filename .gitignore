@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+#Runtime generated files
+travel_plans/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
